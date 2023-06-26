@@ -1,4 +1,4 @@
-# Jacktone Etemesi - Data Analyst and Data Science Enthusiast
+# Jacktone Etemesi - Data Scientist | Financial Analyst | Risk Analyst
 
 👋 Hi there,
 
