@@ -2,7 +2,7 @@
 
 👋 Hi there,
 
-I'm Jacktone Etemesi, a data analyst with a background in Actuarial Science. I'm passionate about leveraging data science techniques to solve real-life problems and drive data-informed decision-making.
+I'm Jacktone Etemesi, a Data Scientist with a background in Actuarial Science. I'm passionate about leveraging data science techniques to solve real-life problems and drive data-informed decision-making.
 
 ## Skills
 
@@ -15,7 +15,7 @@ I'm Jacktone Etemesi, a data analyst with a background in Actuarial Science. I'm
 - **Database Management**: Experience working with SQLite3 for efficient database management.
 - **Version Control**: Proficient in using Git and Github for effective version control of data science projects.
 - **Microsoft Office Tools**: Familiarity with various Microsoft Office tools such as Word, Excel, PowerPoint, Outlook, and Publisher.
-- **Digital Marketing**: Knowledge in digital marketing techniques, including social media marketing, SEM & SEO, and email marketing.
+- **Digital Marketing**: Knowledge of digital marketing techniques, including social media marketing, SEM & SEO, and email marketing.
 
 ## Contact
 
