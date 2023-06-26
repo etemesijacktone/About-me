@@ -1,28 +1,28 @@
-👋 Hi,
+# Jacktone Etemesi - Data Analyst and Data Science Enthusiast
 
-I'm Jacktone Etemesi, an actuarial science graduate and a data analyst by profession. I'm passionate about learning data science and its applications in solving real-life problems.
+👋 Hi there,
 
-My skills:
--	<b><i>Data Collection: Teamscope, Open data kit, Kobo, survey CTO.
--	Web Scraping and Data Mining: Python (Beautifulsoup4, Requests)
--	Data Cleaning
--	Data Analysis: Python (Numpy, Pandas), Spreadsheets.
--	Data Visualization: Python (Matplotlib, Seaborn, Pandas, Plotly & Cufflinks)
--	Database Management (SQLite3)
--	Project Version control: Git & Github
--	Microsoft Office Tools: Word, Excel, PowerPoint, Outlook, Publisher
--	Digital Marketing: Social Media Marketing, SEM & SEO, Email Marketing </i></b>
+I'm Jacktone Etemesi, a data analyst with a background in Actuarial Science. I'm passionate about leveraging data science techniques to solve real-life problems and drive data-informed decision-making.
 
-🌱 I’m currently learning Machine Learning with Python.
+## Skills
 
-💞️ I’m looking to collaborate on any Data Science project
+- **Data Collection**: Proficient in using tools such as Teamscope, Open Data Kit, Kobo, and Survey CTO for effective data collection.
+- **Web Scraping and Data Mining**: Experienced in web scraping and data mining using Python libraries like Beautifulsoup4 and Requests.
+- **Data Cleaning**: Skilled in cleaning and preprocessing data to ensure its quality and reliability.
+- **Data Analysis**: Expertise in data analysis using Python libraries such as Numpy, Pandas, and spreadsheets.
+- **Data Visualization**: Proficient in creating insightful visualizations using Python libraries like Matplotlib, Seaborn, Pandas, Plotly, and Cufflinks.
+- **Machine Learning**: Currently expanding my knowledge in Machine Learning with Python, including supervised and unsupervised learning techniques, model evaluation, and deployment.
+- **Database Management**: Experience working with SQLite3 for efficient database management.
+- **Version Control**: Proficient in using Git and Github for effective version control of data science projects.
+- **Microsoft Office Tools**: Familiarity with various Microsoft Office tools such as Word, Excel, PowerPoint, Outlook, and Publisher.
+- **Digital Marketing**: Knowledge in digital marketing techniques, including social media marketing, SEM & SEO, and email marketing.
 
-📫 How to reach me;
-  - <b>Email: jacktoneetemesi1@gmail.com
-  - LinkedIn:https://www.linkedin.com/in/jacktone-etemesi-a4a6b5144/
-  - Phone: +254708578181</b> 
+## Contact
 
-<!---
-etemesijacktone/etemesijacktone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to reach out to me to discuss data science opportunities or collaborations:
+
+- **Email**: jacktoneetemesi1@gmail.com
+- **LinkedIn**: [Jacktone Etemesi](https://www.linkedin.com/in/jacktone-etemesi-a4a6b5144/)
+- **Phone**: +254708578181
+
+Let's connect and explore the possibilities of working together in the fascinating field of data science!
