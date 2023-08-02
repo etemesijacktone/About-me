@@ -1,4 +1,4 @@
-# Jacktone Etemesi - Data Scientist | Financial Analyst | Risk Analyst
+# Jacktone Etemesi - Data Scientist | Actuarial Science | Risk Analysis | Python Enthusiast 🐍
 
 👋 Hi there,
 
@@ -25,4 +25,4 @@ Feel free to reach out to me to discuss data science opportunities or collaborat
 - **LinkedIn**: [Jacktone Etemesi](https://www.linkedin.com/in/jacktone-etemesi-a4a6b5144/)
 - **Phone**: +254708578181
 
-Let's connect and explore the possibilities of working together in the fascinating field of data science!
+Let's connect and explore the possibilities of working together in the fascinating field of data science! 🌐
