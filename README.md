@@ -1,4 +1,4 @@
-# Jacktone Etemesi - Data Scientist | Actuarial Science | Risk Analysis | Python Enthusiast 🐍
+# Jacktone Etemesi - Data Scientist | Financial Analyst | Risk Analyst | Python Enthusiast 🐍
 
 👋 Hi there,
 
